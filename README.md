@@ -1,7 +1,7 @@
 # Triangle
 
 Welcome to Triangle on Exercism's Python Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
+
 
 ## Instructions
 
